@@ -1,0 +1,24 @@
+h2 {
+ font-size: 3rem;
+ color: black;
+}
+
+form {
+    font-family: "Trirong", serif;
+    color: black;
+}
+
+
+body {
+    background-color: #ece672;
+    position: absolute;
+    font-family: "Trirong", serif;
+   }
+
+
+p {
+    font-family: "Trirong", serif;
+    font-size: 1.5rem;
+    color: black;
+}
+
